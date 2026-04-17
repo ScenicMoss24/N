@@ -1,0 +1,7 @@
+use_default_settings: True
+server:
+  secret_key: "una_clave_muy_larga_inventada_por_ti"
+search:
+  formats:
+    - html
+    - json
